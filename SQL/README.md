@@ -1,4 +1,4 @@
-# HackerRankSQL
+# HackerRank_SQL
 My SQL practice at HackerRank from a beginner using MS SQL Server.
 
 View my HackerRank profile: https://www.hackerrank.com/vietnt_work
