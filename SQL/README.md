@@ -1,5 +1,5 @@
 # HackerRankSQL
-My SQL Practice at HackerRank from a beginner using MS SQL Server.
+My SQL practice at HackerRank from a beginner using MS SQL Server.
 
 View my hackerrank profile: https://www.hackerrank.com/vietnt_work
 
