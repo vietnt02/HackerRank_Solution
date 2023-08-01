@@ -1,5 +1,5 @@
 # HackerRank_Solution
-My programming practice from a beginner at HackerRank
+My practice at HackerRank from a beginner on the way to becoming a Data Analyst
 
 View my HackerRank profile: https://www.hackerrank.com/vietnt_work
 
