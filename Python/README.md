@@ -1,5 +1,5 @@
 # HackerRank_Python
-My python Practice at HackerRank from a beginner.
+My python practice at HackerRank from a beginner.
 
 View my hackerrank profile: https://www.hackerrank.com/vietnt_work
 
